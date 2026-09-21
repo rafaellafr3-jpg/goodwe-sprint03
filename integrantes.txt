@@ -1,0 +1,31 @@
+Nome: Guilherme Detta
+RM: 569666
+Turma: CCPW
+
+Nome: Igor Alves
+RM: 574127
+Turma: CCPW
+
+Nome: Henrique Bolfer
+RM: 569514
+Turma: CCPW
+
+Nome: Arthur Costa
+RM: 569976
+Turma: CCPW
+
+Nome: Rafaella Ferreira
+RM: 571030
+Turma: CCPW
+
+Nome: Aneliza Rondina
+RM: 572977
+Turma: CCPW
+
+Responsabilidades:
+- Guilherme Detta: Organização dos requisitos da Sprint 03 e apoio na documentação dos testes funcionais.
+- Igor Alves: Pesquisa de frameworks/modelos e apoio na documentação da comparação entre LLMs.
+- Henrique Bolfer: Segurança, Prompt Injection e documentação dos guardrails.
+- Arthur Costa: Revisão dos entregáveis, apresentação e preparação da demonstração.
+- Rafaella Ferreira: Desenvolvimento principal: arquitetura LangGraph, integração das LLMs, memória e organização do código.
+- Aneliza Rondina: Documentação técnica, relatório de evolução e apoio na descrição da arquitetura e decisões.

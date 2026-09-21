@@ -1,0 +1,21 @@
+RELATÓRIO DE FATURAMENTO — CHARGEGRID INTELLIGENCE
+
+Semana de 08/09/2026 a 14/09/2026:
+Faturamento total: R$ 12.340,00
+Número de sessões de carregamento faturadas: 186
+
+Semana de 15/09/2026 a 21/09/2026:
+Faturamento total: R$ 13.020,00
+Número de sessões de carregamento faturadas: 194
+
+CICLOS DE CARREGAMENTO
+
+Dia 16/09/2026: 23 ciclos de carregamento completos registrados.
+Dia 17/09/2026: 19 ciclos de carregamento completos registrados.
+Dia 18/09/2026: 27 ciclos de carregamento completos registrados.
+
+COMUNICAÇÕES PROGRAMADAS
+
+Manutenção preventiva programada para o dia 20/09/2026, às 10h, com duração
+estimada de 2 horas. Notificação deve ser enviada aos usuários via aplicativo
+e e-mail com 24h de antecedência.

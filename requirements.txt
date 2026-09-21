@@ -1,0 +1,14 @@
+langgraph>=0.2.0
+langchain-core>=0.3.0
+langchain-openai>=0.2.0
+langchain-anthropic>=0.2.0
+langchain-google-genai>=2.0.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+pypdf>=4.0.0
+python-dotenv>=1.0.0
+pytest>=8.0.0
+
+# Opcional: só necessário se você adicionar arquivos .docx/.doc na
+# knowledge_base/ (a Sprint 1-2 usava isso; .txt/.md já funcionam sem isto)
+# unstructured>=0.15.0

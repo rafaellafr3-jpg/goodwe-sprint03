@@ -1,0 +1,20 @@
+RELATÓRIO DIÁRIO DE POTÊNCIA — CHARGEGRID INTELLIGENCE
+
+Data: 14/09/2026
+Pico de potência do dia: 47 kW, registrado às 18h.
+Potência média entre 6h e 22h: 22 kW.
+Horário de menor demanda: entre 2h e 5h, com média de 4 kW.
+
+Data: 15/09/2026
+Pico de potência do dia: 51 kW, registrado às 19h.
+Potência média entre 6h e 22h: 24 kW.
+
+Data: 16/09/2026
+Pico de potência do dia: 45 kW, registrado às 18h30.
+Potência média entre 6h e 22h: 21 kW.
+
+TARIFAÇÃO SUGERIDA POR HORÁRIO DE PICO
+
+Entre 18h e 20h (alta demanda): valor sugerido de R$ 2,10/kWh.
+Entre 20h e 22h (demanda moderada): valor sugerido de R$ 1,60/kWh.
+Fora do horário de pico (demais horários): valor sugerido de R$ 1,10/kWh.
